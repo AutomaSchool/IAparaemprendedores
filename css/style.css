@@ -1,0 +1,23 @@
+body {
+  background-color: #0f172a; /* Un azul oscuro espacial 🌌 */
+  color: #f8fafc;            /* Texto casi blanco para que resalte ⚪ */
+  font-family: sans-serif;   /* Una letra más limpia y moderna ✍️ */
+}
+
+h1 {
+  color: #38bdf8;            /* El título en un azul neón 🤖 */
+  text-align: center;        /* Centrado para que se vea importante 📐 */
+}
+h2 {
+  font-style: italic;
+}
+h3 {
+  color: #38bdf8;            /* El título en un azul neón 🤖 */
+  text-align: center;        /* Centrado para que se vea importante 📐 */
+
+  .copyright-text {
+    font-size: 0.8rem;    /* Tamaño de letra más chico */
+    color: #888888;       /* Color gris suave */
+    text-align: center;   /* Centrado */
+    margin-top: 20px;     /* Espacio para que no pegue a los links */
+}
